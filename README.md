@@ -1,18 +1,28 @@
-# Jarvis
-Built a Python-based AI assistant with the features listed below and AI integration through GEMINI API key.
-        
-# //Features
-        
-1) Play random Song
-2) Tell Time and Date
-3) Create a task bar
-4) Open_website
-5) Open_app
-6) Screenshot
-7) Wikipedia Search
-8) Search_google
-9) Whatsapp
-10) AI (API Key of GEMINI)
+# Jarvis - Python AI Assistant 🤖
 
+*Jarvis* is a Python-based AI assistant that helps you with daily tasks and searches while integrating AI capabilities via the *GEMINI API*.  
 
-                  
+---
+
+## Features
+
+- 🎵 *Play Random Song* – Play a random song from your library.  
+- ⏰ *Tell Time and Date* – Get the current time and date instantly.  
+- 📋 *Create a Task Bar* – Keep track of your tasks efficiently.  
+- 🌐 *Open Website* – Open any website in your default browser.  
+- 🖥 *Open App* – Launch installed applications on your system.  
+- 📸 *Screenshot* – Capture your screen with a single command.  
+- 📚 *Wikipedia Search* – Fetch information from Wikipedia.  
+- 🔍 *Google Search* – Search anything quickly on Google.  
+- 💬 *Whatsapp Messaging* – Send messages via WhatsApp.  
+- 🤖 *AI Integration (GEMINI API)* – Chat and get AI-generated responses.
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/jarvis-python.git
+cd jarvis
