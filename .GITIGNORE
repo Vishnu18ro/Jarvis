@@ -1,0 +1,4 @@
+gemini_fn.py
+.env
+__pycache__/
+user_config.py
